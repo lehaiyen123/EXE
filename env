@@ -1,0 +1,5 @@
+PORT=5000
+MONGO_URL = "mongodb://127.0.0.1:27017/EXE"
+JWT_SECRET = abac12afsdkjladf
+NODE_ENV = development
+PAYPAL_CLIENT_ID = ABR7F-87te39qT0KZ9c0VC1aQM-8A5dzUtzvyA0q8I8lL50OgsoNorzF
